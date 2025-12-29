@@ -1,1 +1,6 @@
+.env
+.~lock.code_report.csv#
+code_report.csv
+
+# Netbeans
 /nbproject/
