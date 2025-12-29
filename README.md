@@ -1,4 +1,4 @@
-# geosafe-web
+# geosafe-web.github.io
 
 ## Setup
 
